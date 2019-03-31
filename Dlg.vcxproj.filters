@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{098033f9-787d-4681-b418-62342b7dc408}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2f44c36d-d7a8-4b16-858e-cb79cb412ad6}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{eea4a398-12d6-4e63-8c46-cc5175adf497}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Dlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Figure.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Uclass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sclass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StartingPage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Dlg.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Dlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Figure.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UNDOREDO.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stackM.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StartingPage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\Dlg.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Dlg.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ReadMe.txt" />
+    <None Include="res\bitmap1.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="3674933_412015656.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\Users\Admin\Desktop\Eraser.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\Users\Admin\Desktop\save.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pic\save2.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pic\ok2.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pic\cancel2.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pic\load2.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pic\undo2.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pic\bitmap10.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pic\redo2.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pic\rectangle2.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pic\elipse2.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pic\squre2.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pic\circle21.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pic\trai.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pic\line.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pic\trai2.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Circle.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Ellipse.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Eraser.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Line.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Move.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Paint.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Pencil.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Rectangle.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Square.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Triangle.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Arrow.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ClassDiagram.cd" />
+    <None Include="..\BKAdd.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pic\bitmap20.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\startPage-Bar&amp;Amit.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="pic\pick.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Bitmap.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="pic\hand.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="pic\paint.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
